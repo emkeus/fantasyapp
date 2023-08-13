@@ -464,7 +464,7 @@ const FantasyApp = () => {
                       }}
                     >
                       {getReadableStatName(key)}: {displayValue}
-                    </h3>;
+                    </h3>; 
                   }
                 })}
             </div>

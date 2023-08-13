@@ -1,6 +1,6 @@
 import React, { useRef, useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import './App.css';
+import './App.css'; 
 import playerData from './playerdata.json';
 import * as THREE from 'three';
 import { useInView } from 'react-intersection-observer';

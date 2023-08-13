@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8c544cd.css",
-    "main.js": "/static/js/main.2d936ef7.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.e8c544cd.css.map": "/static/css/main.e8c544cd.css.map",
-    "main.2d936ef7.js.map": "/static/js/main.2d936ef7.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/fantasyapp/static/css/main.e8c544cd.css",
+    "main.js": "/fantasyapp/static/js/main.59ca4ff2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/fantasyapp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/fantasyapp/index.html",
+    "main.e8c544cd.css.map": "/fantasyapp/static/css/main.e8c544cd.css.map",
+    "main.59ca4ff2.js.map": "/fantasyapp/static/js/main.59ca4ff2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/fantasyapp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8c544cd.css",
-    "static/js/main.2d936ef7.js"
+    "static/js/main.59ca4ff2.js"
   ]
 }

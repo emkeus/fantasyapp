@@ -1008,6 +1008,7 @@ const TradeAnalyzer = () => {
 
     
   return (
+    <div class="main-container">
     <div className="TradeAnalyzer">
       <div className="app-description2">
           <h2>
@@ -1129,6 +1130,7 @@ const TradeAnalyzer = () => {
           ))}
         </div>
       </div>
+    </div>
     </div>
   );
 };
